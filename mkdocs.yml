@@ -2,3 +2,21 @@ site_name: 脚著谢公屐
 
 theme:
   name: material
+  language: zh
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/theme-light-dark
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/theme-light-dark
+        name: Switch to light mode
+
+
