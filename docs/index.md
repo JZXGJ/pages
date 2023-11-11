@@ -2,7 +2,7 @@
 
 分享所学所想。
 
-## Commands
+## 卡尔波普尔
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
