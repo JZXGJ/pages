@@ -1,6 +1,6 @@
 # 欢迎来到我的个人博客
 
-For full documentation visit.
+分享所学所想。
 
 ## Commands
 
