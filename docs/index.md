@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# 欢迎来到我的个人博客
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit.
 
 ## Commands
 
