@@ -1,5 +1,7 @@
 site_name: 脚著谢公屐
 
+copyright: Copyright &copy; 2023 - 2024 Wang Zhao
+
 theme:
   name: material
   language: zh
@@ -20,3 +22,12 @@ theme:
         name: Switch to light mode
 
 
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/JZXGJ
+
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/jzxgj
+
+  generator: false
