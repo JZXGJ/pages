@@ -5,6 +5,12 @@ copyright: Copyright &copy; 2023 - 2024 Wang Zhao
 theme:
   name: material
   language: zh
+  features:
+    - navigation.tabs
+    - navigation.top
+  favicon: assets/images/favicon.png
+  icon:
+    logo: fontawesome/solid/feather-pointed
 
   palette:
     # Palette toggle for light mode
@@ -31,3 +37,9 @@ extra:
       link: https://twitter.com/jzxgj
 
   generator: false
+
+
+nav:
+  - Home: index.md
+  - 科学:
+    - 科学：猜想和反驳.md
