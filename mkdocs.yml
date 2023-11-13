@@ -42,7 +42,8 @@ extra:
 nav:
   - Home: index.md
   - 科学:
-    - 科学：猜想和反驳.md
+    - 科学：猜想和反驳: 科学：猜想和反驳.md
+    - Big history: big_history.md
   - 计算机:
     - 编程珠玑: 编程珠玑.md
     - Unix 发展简史: Unix 发展.md
