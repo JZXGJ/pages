@@ -50,6 +50,7 @@ nav:
     - ChatGPT: What Is ChatGPT Doing/What Is ChatGPT Doing.md
   - 经济:
     - 比较优势: Comparative_advantage/比较优势.md
+    - 四种花钱方法: Economy\Friedman.md
 
 markdown_extensions:
   # for math
