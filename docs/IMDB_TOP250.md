@@ -1,0 +1,344 @@
+# IMDB TOP250 
+
+2024-04-05 爬虫抓取
+
+  1. The Shawshank Redemption (1994)
+  2. The Godfather (1972)
+  3. The Dark Knight (2008)
+  4. The Godfather Part II (1974)
+  5. 12 Angry Men (1957)
+  6. Schindler's List (1993)
+  7. The Lord of the Rings: The Return of the King (2003)
+  8. Pulp Fiction (1994)
+  9. The Lord of the Rings: The Fellowship of the Ring (2001)
+ 10. Il buono, il brutto, il cattivo (The Good, the Bad and the Ugly) (1966)
+ 11. Forrest Gump (1994)
+ 12. The Lord of the Rings: The Two Towers (2002)
+ 13. Fight Club (1999)
+ 14. Inception (2010)
+ 15. Dune: Part Two (2024)
+ 16. The Empire Strikes Back (1980)
+ 17. The Matrix (1999)
+ 18. GoodFellas (1990)
+ 19. One Flew Over the Cuckoo's Nest (1975)
+ 20. Se7en (1995)
+ 21. Interstellar (2014)
+ 22. It's a Wonderful Life (1946)
+ 23. 七人の侍 (Seven Samurai) (1954)
+ 24. The Silence of the Lambs (1991)
+ 25. Saving Private Ryan (1998)
+ 26. Cidade de Deus (City of God) (2002)
+ 27. La vita è bella (Life Is Beautiful) (1997)
+ 28. The Green Mile (1999)
+ 29. Terminator 2: Judgment Day (1991)
+ 30. Star Wars (1977)
+ 31. Back to the Future (1985)
+ 32. 千と千尋の神隠し (Spirited Away) (2001)
+ 33. The Pianist (2002)
+ 34. 기생충 (Parasite) (2019)
+ 35. Psycho (1960)
+ 36. Spider-Man: Across the Spider-Verse (2023)
+ 37. Gladiator (2000)
+ 38. The Lion King (1994)
+ 39. Léon: The Professional (1994)
+ 40. The Departed (2006)
+ 41. American History X (1998)
+ 42. Whiplash (2014)
+ 43. The Prestige (2006)
+ 44. 火垂るの墓 (Grave of the Fireflies) (1988)
+ 45. 切腹 (Harakiri) (1962)
+ 46. The Usual Suspects (1995)
+ 47. Casablanca (1942)
+ 48. Intouchables (The Intouchables) (2011)
+ 49. Nuovo Cinema Paradiso (Cinema Paradiso) (1988)
+ 50. Modern Times (1936)
+ 51. Rear Window (1954)
+ 52. C'era una volta il West (Once Upon a Time in the West) (1968)
+ 53. Alien (1979)
+ 54. City Lights (1931)
+ 55. Apocalypse Now (1979)
+ 56. Django Unchained (2012)
+ 57. Memento (2000)
+ 58. 12th Fail (12th Fail) (2023)
+ 59. WALL·E (2008)
+ 60. Raiders of the Lost Ark (1981)
+ 61. Das Leben der Anderen (The Lives of Others) (2006)
+ 62. Sunset Boulevard (1950)
+ 63. Paths of Glory (1957)
+ 64. Avengers: Infinity War (2018)
+ 65. Spider-Man: Into the Spider-Verse (2018)
+ 66. Witness for the Prosecution (1957)
+ 67. The Shining (1980)
+ 68. The Great Dictator (1940)
+ 69. Aliens (1986)
+ 70. Inglourious Basterds (2009)
+ 71. The Dark Knight Rises (2012)
+ 72. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+ 73. American Beauty (1999)
+ 74. 올드보이 (Oldboy) (2003)
+ 75. Coco (2017)
+ 76. Amadeus (1984)
+ 77. Toy Story (1995)
+ 78. Das Boot (Das Boot) (1981)
+ 79. Braveheart (1995)
+ 80. Avengers: Endgame (2019)
+ 81. Joker (2019)
+ 82. もののけ姫 (Princess Mononoke) (1997)
+ 83. Good Will Hunting (1997)
+ 84. 君の名は。 (Your Name.) (2016)
+ 85. Once Upon a Time in America (1984)
+ 86. 天国と地獄 (High and Low) (1963)
+ 87. 3 Idiots (3 Idiots) (2009)
+ 88. Singin' in the Rain (1952)
+ 89. کفرناحوم (Capernaum) (2018)
+ 90. Oppenheimer (2023)
+ 91. Requiem for a Dream (2000)
+ 92. Иди и смотри (Come and See) (1985)
+ 93. Toy Story 3 (2010)
+ 94. Return of the Jedi (1983)
+ 95. Eternal Sunshine of the Spotless Mind (2004)
+ 96. Jagten (The Hunt) (2012)
+ 97. 2001: A Space Odyssey (1968)
+ 98. Reservoir Dogs (1992)
+ 99. 生きる (Ikiru) (1952)
+100. Lawrence of Arabia (1962)
+101. The Apartment (1960)
+102. North by Northwest (1959)
+103. Citizen Kane (1941)
+104. Incendies (Incendies) (2010)
+105. Vertigo (1958)
+106. M - Eine Stadt sucht einen Mörder (M) (1931)
+107. Double Indemnity (1944)
+108. Scarface (1983)
+109. Le Fabuleux Destin d'Amélie Poulain (Amélie) (2001)
+110. Full Metal Jacket (1987)
+111. A Clockwork Orange (1971)
+112. Heat (1995)
+113. Up (2009)
+114. To Kill a Mockingbird (1962)
+115. The Sting (1973)
+116. جدایی نادر از سیمین (A Separation) (2011)
+117. Indiana Jones and the Last Crusade (1989)
+118. Die Hard (1988)
+119. Metropolis (Metropolis) (1927)
+120. तारे ज़मीन पर (Like Stars on Earth) (2007)
+121. Snatch (2000)
+122. Hamilton (2020)
+123. L.A. Confidential (1997)
+124. Ladri di biciclette (Bicycle Thieves) (1948)
+125. 1917 (2019)
+126. Taxi Driver (1976)
+127. Der Untergang (Downfall) (2004)
+128. दंगल (Dangal) (2016)
+129. Per qualche dollaro in più (For a Few Dollars More) (1965)
+130. Batman Begins (2005)
+131. The Wolf of Wall Street (2013)
+132. Some Like It Hot (1959)
+133. Green Book (2018)
+134. The Kid (1921)
+135. The Father (2020)
+136. Judgment at Nuremberg (1961)
+137. All About Eve (1950)
+138. The Truman Show (1998)
+139. Top Gun: Maverick (2022)
+140. Shutter Island (2010)
+141. There Will Be Blood (2007)
+142. Casino (1995)
+143. 乱 (Ran) (1985)
+144. Jurassic Park (1993)
+145. The Sixth Sense (1999)
+146. El laberinto del fauno (Pan's Labyrinth) (2006)
+147. Unforgiven (1992)
+148. No Country for Old Men (2007)
+149. A Beautiful Mind (2001)
+150. The Thing (1982)
+151. The Treasure of the Sierra Madre (1948)
+152. Kill Bill: Vol. 1 (2003)
+153. 用心棒 (Yojimbo) (1961)
+154. Monty Python and the Holy Grail (1975)
+155. The Great Escape (1963)
+156. Finding Nemo (2003)
+157. 羅生門 (Rashomon) (1950)
+158. Prisoners (2013)
+159. ハウルの動く城 (Howl's Moving Castle) (2004)
+160. The Elephant Man (1980)
+161. Chinatown (1974)
+162. Dial M for Murder (1954)
+163. Gone with the Wind (1939)
+164. V for Vendetta (2005)
+165. Lock, Stock and Two Smoking Barrels (1998)
+166. El secreto de sus ojos (The Secret in Their Eyes) (2009)
+167. Inside Out (2015)
+168. Raging Bull (1980)
+169. Three Billboards Outside Ebbing, Missouri (2017)
+170. Trainspotting (1996)
+171. The Bridge on the River Kwai (1957)
+172. Spider-Man: No Way Home (2021)
+173. Fargo (1996)
+174. Klaus (2019)
+175. Warrior (2011)
+176. Catch Me If You Can (2002)
+177. ゴジラ-1.0 (Godzilla Minus One) (2023)
+178. Gran Torino (2008)
+179. となりのトトロ (My Neighbor Totoro) (1988)
+180. Million Dollar Baby (2004)
+181. Harry Potter and the Deathly Hallows: Part 2 (2011)
+182. بچه‌های آسمان (Children of Heaven) (1997)
+183. 12 Years a Slave (2013)
+184. Blade Runner (1982)
+185. Before Sunrise (1995)
+186. Ben-Hur (1959)
+187. The Grand Budapest Hotel (2014)
+188. Barry Lyndon (1975)
+189. Gone Girl (2014)
+190. Hacksaw Ridge (2016)
+191. The Gold Rush (1925)
+192. 살인의 추억 (Memories of Murder) (2003)
+193. In the Name of the Father (1993)
+194. Dead Poets Society (1989)
+195. On the Waterfront (1954)
+196. The General (1926)
+197. The Deer Hunter (1978)
+198. Relatos salvajes (Wild Tales) (2014)
+199. Mad Max: Fury Road (2015)
+200. Monsters, Inc. (2001)
+201. Sherlock Jr. (1924)
+202. The Third Man (1949)
+203. Smultronstället (Wild Strawberries) (1957)
+204. Le Salaire de la peur (The Wages of Fear) (1953)
+205. Jaws (1975)
+206. How to Train Your Dragon (2010)
+207. Mary and Max (2009)
+208. Mr. Smith Goes to Washington (1939)
+209. Ratatouille (2007)
+210. Ford v Ferrari (2019)
+211. The Big Lebowski (1998)
+212. Room (2015)
+213. 東京物語 (Tokyo Story) (1953)
+214. Det sjunde inseglet (The Seventh Seal) (1957)
+215. Rocky (1976)
+216. Logan (2017)
+217. Spotlight (2015)
+218. Hotel Rwanda (2004)
+219. Platoon (1986)
+220. The Terminator (1984)
+221. La Passion de Jeanne d'Arc (The Passion of Joan of Arc) (1928)
+222. Before Sunset (2004)
+223. La Haine (La Haine) (1995)
+224. The Best Years of Our Lives (1946)
+225. The Exorcist (1973)
+226. Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+227. Rush (2013)
+228. ஜெய் பீம் (Jai Bhim) (2021)
+229. Network (1976)
+230. Stand by Me (1986)
+231. The Wizard of Oz (1939)
+232. The Incredibles (2004)
+233. Hachi: A Dog's Tale (2009)
+234. 아가씨 (The Handmaiden) (2016)
+235. Into the Wild (2007)
+236. Babam ve Oğlum (My Father and My Son) (2005)
+237. The Sound of Music (1965)
+238. To Be or Not to Be (1942)
+239. The Grapes of Wrath (1940)
+240. La battaglia di Algeri (The Battle of Algiers) (1966)
+241. Groundhog Day (1993)
+242. Amores perros (Amores Perros) (2000)
+243. Rebecca (1940)
+244. Cool Hand Luke (1967)
+245. The Iron Giant (1999)
+246. The Help (2011)
+247. It Happened One Night (1934)
+248. Aladdin (1992)
+249. Dances with Wolves (1990)
+250. Paris, Texas (1984)
+
+## 爬虫代码
+
+### 获取 TOP250 排名
+
+```python
+import requests
+from bs4 import BeautifulSoup
+import json
+
+# IMDb Top 250 电影页面的 URL
+url = 'https://www.imdb.com/chart/top/'
+
+def get_top_250_movies(url):
+    # 模拟浏览器
+    headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
+    response = requests.get(url, headers=headers)
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    # 使用 BeautifulSoup 查找具有特定 ID 的 <script> 标签
+    script_tag = soup.find('script', {'id': '__NEXT_DATA__'})
+
+    if script_tag:
+        # 将字符串转换为 Python 字典
+        data = json.loads(script_tag.string)
+
+        # 将字典写入 JSON 文件
+        with open('top250.json', 'w') as json_file:
+            json.dump(data, json_file, indent=4)
+    else:
+        print('Script tag not found')
+
+
+# 获取 IMDb Top 250 电影列表
+get_top_250_movies(url)
+```
+
+### 从 TMDB 数据库获取详细信息
+
+```python
+import requests
+
+def imdb_id_to_original_title(imdb_id: str):
+
+    url = "https://api.themoviedb.org/3/movie/" + imdb_id + "?language=en-US"
+
+    headers = {
+        "accept": "application/json",
+        "Authorization": '',
+    }
+
+    response = requests.get(url, headers=headers)
+
+    data = json.loads(response.text)
+
+    return data['original_language'], data['original_title'], data['title']
+
+imdb_id_to_original_title("tt0047478")
+```
+
+### 从 TMDB 数据库获取详细信息
+
+```python
+import json
+import time
+
+with open('top250.json', 'r') as file:
+    data = json.load(file)
+
+movie_list = data['props']['pageProps']['pageData']['chartTitles']['edges']
+
+for movie in movie_list[173:]:
+    print(f"{movie['currentRank']:3}.", end=' ')
+    imdb_id = movie['node']['id']
+
+    original_language, original_title, title = imdb_id_to_original_title(imdb_id)
+
+    if original_language == 'en':
+        print(title, end=' ')
+    else:
+        print(original_title, end=' ')
+        print("(" + title + ")", end=' ')
+
+    print(f"({movie['node']['releaseYear']['year']})")
+
+    time.sleep(1)
+```
