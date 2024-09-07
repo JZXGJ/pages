@@ -55,6 +55,8 @@ nav:
     - 四种花钱方法: Economy/Friedman.md
   - 电影:
     - IMDb Top 250 Movies: IMDB_TOP250.md
+  - 航天:
+    - 瓢虫一号轨道: PC1\瓢虫一号.md
 
 
 markdown_extensions:
