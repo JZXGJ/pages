@@ -36,6 +36,9 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/jzxgj
 
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@jzxgj
+
   generator: false
 
 
