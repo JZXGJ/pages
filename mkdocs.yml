@@ -45,6 +45,7 @@ extra:
 
 nav:
   - Home: index.md
+
   - 科学:
     - 科学：猜想和反驳: 科学：猜想和反驳.md
     - Big history: big_history.md
@@ -59,11 +60,14 @@ nav:
     - 编程珠玑: 编程珠玑.md
     - Unix 发展简史: Unix 发展.md
     - ChatGPT: What Is ChatGPT Doing/What Is ChatGPT Doing.md
+
   - 经济:
     - 比较优势: Comparative_advantage/比较优势.md
     - 四种花钱方法: Economy/Friedman.md
+
   - 电影:
     - IMDb Top 250 Movies: IMDB_TOP250.md
+
   - 航天:
     - 瓢虫一号轨道: PC1/瓢虫一号.md
 
